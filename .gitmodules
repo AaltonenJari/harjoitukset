@@ -1,0 +1,9 @@
+[submodule "osa1/kurssitiedot"]
+	path = osa1/kurssitiedot
+	url = https://github.com/git@github.com:AaltonenJari/kurssitiedot.git
+[submodule "osa1/unicafe"]
+	path = osa1/unicafe
+	url = https://github.com/git@github.com:AaltonenJari/unicafe.git
+[submodule "osa1/anekdootit"]
+	path = osa1/anekdootit
+	url = https://github.com/git@github.com:AaltonenJari/anekdootit.git
